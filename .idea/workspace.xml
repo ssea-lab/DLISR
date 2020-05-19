@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33f2a848-468f-409b-91c0-4a189067d0a1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/train_predict_newScene.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+              <folding>
+                <element signature="e#23#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend_models/CI_Model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6600">
+              <caret line="277" column="11" selection-start-line="277" selection-start-column="11" selection-end-line="277" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend_models/MISR_models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8736">
+              <caret line="495" column="15" selection-start-line="495" selection-start-column="15" selection-end-line="495" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#8509#8534#0" />
+                <element signature="e#8612#15381#0" />
+                <element signature="e#8787#10443#0" />
+                <element signature="e#20064#20144#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/run_models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1176">
+              <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+              <folding>
+                <element signature="e#23#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend_models/DIN_Rec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2496">
+              <caret line="120" column="24" selection-start-line="120" selection-start-column="12" selection-end-line="120" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend_models/baseline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9480">
+              <caret line="398" column="9" selection-start-line="398" selection-start-column="9" selection-end-line="398" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>no_kcv_root_path</find>
+      <find>HINRec</find>
+      <find>LR_PNCF</find>
+      <find>set_mid2NI_feas</find>
+      <find>if_inception_MLP</find>
+      <find>content_fc_unit_nums</find>
+      <find>if_implict</find>
+      <find>train_slt_apis_mid_features_path</find>
+      <find>NI_Model</find>
+      <find>Model</find>
+      <find>Dropout</find>
+      <find>Flatten</find>
+      <find>DIN_Rec</find>
+      <find>train_mashup_best_name</find>
+      <find>eachPath_topK_name</find>
+      <find>meta_data</find>
+      <find>topK</find>
+      <find>CI_model</find>
+      <find>word_embedding_dim</find>
+      <find>inception_fc_unit_nums</find>
+      <find>num_feat</find>
+      <find>CI_recommend_model</find>
+      <find>train_mashup_best</find>
+      <find>need_slt_apis</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main/new_split_dataset.py" />
+        <option value="$PROJECT_DIR$/Helpers/cpt_Sim.py" />
+        <option value="$PROJECT_DIR$/recommend_models/text_tag_extractors.py" />
+        <option value="$PROJECT_DIR$/recommend_models/new_text_tag_model.py" />
+        <option value="$PROJECT_DIR$/recommend_models/HIN_sim.py" />
+        <option value="$PROJECT_DIR$/recommend_models/text_tag_model.py" />
+        <option value="$PROJECT_DIR$/recommend_models/set_rec.py" />
+        <option value="$PROJECT_DIR$/recommend_models/text_tag_continue_model.py" />
+        <option value="$PROJECT_DIR$/main/helper.py" />
+        <option value="$PROJECT_DIR$/main/processing_data.py" />
+        <option value="$PROJECT_DIR$/recommend_models/sequence.py" />
+        <option value="$PROJECT_DIR$/main/new_para_setting.py" />
+        <option value="$PROJECT_DIR$/embedding/embedding.py" />
+        <option value="$PROJECT_DIR$/embedding/encoding_padding_texts.py" />
+        <option value="$PROJECT_DIR$/recommend_models/PNCF.py" />
+        <option value="$PROJECT_DIR$/recommend_models/recommend_Model.py" />
+        <option value="$PROJECT_DIR$/recommend_models/simple_inception.py" />
+        <option value="$PROJECT_DIR$/recommend_models/midMLP_model.py" />
+        <option value="$PROJECT_DIR$/recommend_models/attention_block.py" />
+        <option value="$PROJECT_DIR$/recommend_models/MISR_models.py" />
+        <option value="$PROJECT_DIR$/recommend_models/HINRec_new.py" />
+        <option value="$PROJECT_DIR$/main/dataset.py" />
+        <option value="$PROJECT_DIR$/main/evalute.py" />
+        <option value="$PROJECT_DIR$/recommend_models/CI_Model.py" />
+        <option value="$PROJECT_DIR$/recommend_models/NI_Model_online_new.py" />
+        <option value="$PROJECT_DIR$/main/train_predict_methods.py" />
+        <option value="$PROJECT_DIR$/recommend_models/DIN_Rec.py" />
+        <option value="$PROJECT_DIR$/recommend_models/baseline.py" />
+        <option value="$PROJECT_DIR$/main/run_models.py" />
+        <option value="$PROJECT_DIR$/main/train_predict_newScene.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="55" />
+    <option name="y" value="5" />
+    <option name="width" value="1485" />
+    <option name="height" value="630" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="new_GX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_GX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_GX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_GX" type="462c0819:PsiDirectoryNode" />
+              <item name="embedding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_GX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_GX" type="462c0819:PsiDirectoryNode" />
+              <item name="Helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_GX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_GX" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_GX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_GX" type="462c0819:PsiDirectoryNode" />
+              <item name="mf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_GX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_GX" type="462c0819:PsiDirectoryNode" />
+              <item name="recommend_models" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\15725\Desktop\new_GX\recommend_models" />
+      <recent name="C:\Users\15725\Desktop\new_GX\main" />
+      <recent name="C:\Users\15725\Desktop\new_GX" />
+      <recent name="C:\Users\15725\Desktop\new_GX\Helpers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.train_predict_newScene">
+    <configuration name="new_GX" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="new_GX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\coding\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_predict_newScene" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="new_GX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/train_predict_newScene.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_predict_newScene" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33f2a848-468f-409b-91c0-4a189067d0a1" name="Default Changelist" comment="" />
+      <created>1587385753204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587385753204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4837341" visible="true" weight="0.18428005" />
+      <window_info id="Structure" order="1" sideWeight="0.5162659" side_tool="true" visible="true" weight="0.18428005" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.42574257" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.73691654" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28712872" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.45120227" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/embedding/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helpers/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helpers/cpt_Sim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="278" column="19" lean-forward="true" selection-start-line="278" selection-start-column="19" selection-end-line="278" selection-end-column="19" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helpers/evaluator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepCTR/layers/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1200">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/text_tag_extractors.py" />
+    <entry file="file://$PROJECT_DIR$/recommend_models/new_text_tag_model.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/1239659211/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="3622" column="12" lean-forward="true" selection-start-line="3622" selection-start-column="12" selection-end-line="3622" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/text_tag_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/set_rec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/text_tag_continue_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/coding/anaconda3/Lib/site-packages/keras/engine/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="541" column="6" selection-start-line="541" selection-start-column="6" selection-end-line="541" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3576">
+          <caret line="149" column="32" lean-forward="true" selection-start-line="149" selection-start-column="32" selection-end-line="149" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/coding/anaconda3/Lib/site-packages/keras/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/coding/anaconda3/Lib/site-packages/tensorflow/python/keras/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/PNCF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/coding/anaconda3/Lib/site-packages/tensorflow/python/keras/_impl/keras/layers/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="458" column="6" selection-start-line="458" selection-start-column="6" selection-end-line="458" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/simple_inception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/embedding/embedding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/embedding/encoding_padding_texts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#24#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/coding/anaconda3/Lib/site-packages/keras/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="815" column="15" lean-forward="true" selection-start-line="815" selection-start-column="15" selection-end-line="815" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="483" lean-forward="true" selection-start-line="483" selection-end-line="483" />
+          <folding>
+            <element signature="e#79#97#0" expanded="true" />
+            <element signature="e#514#4754#0" />
+            <element signature="e#4794#9023#0" />
+            <element signature="e#9065#12100#0" />
+            <element signature="e#12153#15074#0" />
+            <element signature="e#15125#20194#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/attention_block.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/HIN_sim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="83" column="11" selection-start-line="83" selection-start-column="11" selection-end-line="83" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/coding/anaconda3/Lib/site-packages/keras/optimizers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="416" column="8" selection-start-line="416" selection-start-column="8" selection-end-line="416" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/midMLP_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/recommend_Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="132" column="61" selection-start-line="132" selection-start-column="48" selection-end-line="132" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/processing_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="367" column="37" selection-start-line="367" selection-start-column="29" selection-end-line="367" selection-end-column="37" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mf/get_UI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/new_run_MISR_deepFM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="57" column="31" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/new_split_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="177" column="37" selection-start-line="177" selection-start-column="24" selection-end-line="177" selection-end-column="37" />
+          <folding>
+            <element signature="e#23#39#0" expanded="true" />
+            <element signature="e#526#4231#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/text_only_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/HINRec_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/evalute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="131" column="72" selection-start-line="131" selection-start-column="34" selection-end-line="131" selection-end-column="72" />
+          <folding>
+            <element signature="e#5140#5554#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4872">
+          <caret line="209" column="63" selection-start-line="209" selection-start-column="63" selection-end-line="209" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#6247#6636#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/NI_Model_online_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="300" selection-start-line="300" selection-end-line="300" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/train_predict_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/new_para_setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/train_predict_newScene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/CI_Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6600">
+          <caret line="277" column="11" selection-start-line="277" selection-start-column="11" selection-end-line="277" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/MISR_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8736">
+          <caret line="495" column="15" selection-start-line="495" selection-start-column="15" selection-end-line="495" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#8509#8534#0" />
+            <element signature="e#8612#15381#0" />
+            <element signature="e#8787#10443#0" />
+            <element signature="e#20064#20144#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/run_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/DIN_Rec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2496">
+          <caret line="120" column="24" selection-start-line="120" selection-start-column="12" selection-end-line="120" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend_models/baseline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9480">
+          <caret line="398" column="9" selection-start-line="398" selection-start-column="9" selection-end-line="398" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
