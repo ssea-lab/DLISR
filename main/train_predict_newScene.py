@@ -99,6 +99,7 @@ if __name__ == '__main__':
     candidate_num = 'all' # 'all'
     if_fewSamples = False
 
+
     # 训练
     pairwise = False
     margin = 0.6
