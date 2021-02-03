@@ -3,4 +3,4 @@ we propose a deep-learning-based interactive service recommendation framework na
 
 This work was supported by the National Key Research and Development Program of China under Grant No. 2017YFB1400602 and the National Science Foundation of China under Grant Nos. 61972292. For researchers who are interested in our recommendation algorithm, you can feel free to download and use it as a baseline algorithm. Also, if you think that the algorithm is useful for your work, please help cite the following paper.
 
-Yutao Ma, Xiao Geng, Jian Wang, Keqing He, and Dionysis Athanasopoulos. Deep Learning Framework for Online Interactive Service Recommendation in Iterative Mashup Development. [CoRR abs/2101.02836]((https://arxiv.org/abs/2101.02836))
+Yutao Ma, Xiao Geng, Jian Wang, Keqing He, and Dionysis Athanasopoulos. Deep Learning Framework for Online Interactive Service Recommendation in Iterative Mashup Development. ([CoRR abs/2101.02836](https://arxiv.org/abs/2101.02836))
